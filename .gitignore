@@ -66,3 +66,13 @@ Properties/Resources.Designer.cs
 *.csproj
 *.ico
 *.settings
+bin/Debug/chainOff.png
+bin/Release/chainOff.png
+bin/Release/chainOn.png
+bin/Debug/chainOn.png
+bin/Debug/lsslocalrules.cf
+Msg_Reader/bin/Debug/chainOff.png
+Msg_Reader/bin/Debug/chainOn.png
+Msg_Reader/bin/Release/chainOff.png
+Msg_Reader/bin/Debug/lsslocalrules.cf
+Msg_Reader/bin/Release/chainOn.png
