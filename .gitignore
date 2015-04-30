@@ -63,7 +63,6 @@ Properties/Settings.Designer.cs
 Properties/Resources.Designer.cs
 *.pfx
 *.user
-*.csproj
 *.ico
 *.settings
 bin/Debug/chainOff.png
